@@ -1,6 +1,8 @@
 # NFD2NFC
 
-Convert NFD(Normalization Form Canonical Decomposition) encoded Hangul to NFC(Normalization Form Canonical Composition) Hangul.
+![](./.github/assets/demo.png)
+
+Convert NFD(Normalization Form Canonical Decomposition) encoded Hangul to NFC(Normalization Form Canonical Composition) encoded Hangul.
 
 ```
 nfd2nfc: A Dart implementation of Hangul NFD to NFC converter.
